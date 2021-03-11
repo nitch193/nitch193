@@ -18,7 +18,7 @@ Hey! :wave:
 -  ⚡ Nitesh here, undergraduate student at NIT Hamirpur. 
 -  🍀 I'm presently doing some competitive coding and learning web development.
 -  💭 Feel free to ask me about JavaScript, React, Anime or Data structures.
--  ⚽ I like to watch Anime and reading fantasy novels.
+-  🔥 I like to watch Anime and reading fantasy novels.
 -------
 
 [![Nitesh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=nitch193&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/nitch193)
