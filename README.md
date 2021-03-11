@@ -4,7 +4,7 @@ Hey! :wave:
 
 <p>
   <a href="https://www.kaggle.com/niteshchaurasiya">
-    <img src="https://img.shields.io/badge/-anshumanv-f48024?style=flat-square&labelColor=f48024&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/niteshchaurasiya">
+    <img src="https://img.shields.io/badge/-Nitesh Kumar-f48024?style=flat-square&labelColor=f48024&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/niteshchaurasiya">
    <a/>
   <a href="https://www.linkedin.com/in/niteshchaurasiya//">
     <img src="https://img.shields.io/badge/-nitesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niteshchaurasiya/">
