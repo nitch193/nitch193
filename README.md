@@ -1,6 +1,7 @@
-## Nitesh Kumar
+## Nitesh Kumar 
 
 Hey! :wave:
+<br>
 ![](https://komarev.com/ghpvc/?username=nitch193&color=dc143c)
 <p>
   <a href="https://www.kaggle.com/niteshchaurasiya">
