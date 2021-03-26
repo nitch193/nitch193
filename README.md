@@ -1,8 +1,6 @@
 ## Nitesh Kumar 
 
 Hey! :wave:
-<br>
-![](https://komarev.com/ghpvc/?username=nitch193&color=dc143c)
 <p>
   <a href="https://www.kaggle.com/niteshchaurasiya">
     <img src="https://img.shields.io/badge/-Nitesh Kumar-f48024?style=flat-square&labelColor=f48024&logo=kaggle&logoColor=blue&link=https://www.kaggle.com/niteshchaurasiya">
@@ -22,3 +20,5 @@ Hey! :wave:
 -  🔥 I like to watch Anime and reading fantasy novels.
 -------
 [![Nitesh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=nitch193&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/nitch193)
+
+![](https://komarev.com/ghpvc/?username=nitch193&color=dc143c)
