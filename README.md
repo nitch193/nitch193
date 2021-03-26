@@ -12,6 +12,7 @@ Hey! :wave:
    <a href="mailto:184052@nith.ac.in">
     <img src="https://img.shields.io/badge/-184052@nith.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:184052@nith.ac.in">
    <a/>
+  ![](https://komarev.com/ghpvc/?username=nitch193&color=dc143c)
 </p>
     
 -------
