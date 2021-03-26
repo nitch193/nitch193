@@ -12,7 +12,6 @@ Hey! :wave:
    <a href="mailto:184052@nith.ac.in">
     <img src="https://img.shields.io/badge/-184052@nith.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:184052@nith.ac.in">
    <a/>
-  ![](https://komarev.com/ghpvc/?username=nitch193&color=dc143c)
 </p>
     
 -------
@@ -21,5 +20,5 @@ Hey! :wave:
 -  💭 Feel free to ask me about JavaScript, React, Anime or Data structures.
 -  🔥 I like to watch Anime and reading fantasy novels.
 -------
-
+![](https://komarev.com/ghpvc/?username=nitch193&color=dc143c)
 [![Nitesh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=nitch193&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/nitch193)
