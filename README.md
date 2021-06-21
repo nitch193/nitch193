@@ -74,8 +74,8 @@
  </p> -->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitch193&show_icons=true&theme=chartreuse-dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devded&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitch193&show_icons=true&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devded&theme=vision-friendly-dark" />
 </p>
 
 <!--
