@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Chaurasiya</h1>
-<h3 align="center">A passionate Web developer from India <img src="https://image.flaticon.com/icons/svg/323/197419.svg" width="14"/> </h3>
+<h3 align="center">A passionate Web developer from India <img src="https://github.com/stevenrskelton/flag-icon/blob/master/svg/country-4x3/in.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitch193" alt="nitch193" /> </p>
 
 - 🔭 I’m currently learning Full Stack development
@@ -74,8 +74,8 @@
  </p> -->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitch193&show_icons=true&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devded&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitch193&show_icons=true&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devded&theme=chartreuse-dark" />
 </p>
 
 <!--
